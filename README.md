@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er00rc0de&show_icons=true&locale=en" alt="er00rc0de" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er00rc0de&" alt="er00rc0de" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorcode-4o4&" alt="er00rc0de" /></p>
