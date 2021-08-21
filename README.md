@@ -1,8 +1,8 @@
-<img align="centre" alt="err0rc0de" src="https://drive.google.com/file/d/13lp_KzbPL53jLaLPYYo1_lADN9e-rMq0/view?usp=drivesdk ">
+<img align="centre" alt="errorcode-4o4" src="https://drive.google.com/file/d/13lp_KzbPL53jLaLPYYo1_lADN9e-rMq0/view?usp=drivesdk ">
 <h1 align="center">Hi 👋, I'm Avinash Kumar 😊</h1>
 <h3 align="center">A "learning phase" web developer👨‍💻 from India🇮🇳 || Jr. student of EE⚡ in NITP</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=er00rc0de&label=Profile%20views&color=0e75b6&style=flat" alt="er00rc0de" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=errorcode-4o4&label=Profile%20views&color=0e75b6&style=flat" alt="er00rc0de" /> </p>
 
 - 🌱 I’m currently learning **CSS**
 
