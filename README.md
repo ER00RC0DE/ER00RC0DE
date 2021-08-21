@@ -1,4 +1,4 @@
-<img align="centre" alt="errorcode-4o4" src="https://drive.google.com/file/d/13lp_KzbPL53jLaLPYYo1_lADN9e-rMq0/view?usp=drivesdk ">
+<a href="#"><p align="center" ><img width="300px" height="300px" src=" https://png.pngtree.com/png-clipart/20200701/original/pngtree-hacker-wearing-hoodie-and-using-laptop-computer-freak-hacking-and-malware-png-image_5415642.jpg"/></p></a>
 <h1 align="center">Hi 👋, I'm Avinash Kumar 😊</h1>
 <h3 align="center">"learning phase" web developer👨‍💻 from India🇮🇳 || Jr. student of EE⚡ in NITP</h3>
 
