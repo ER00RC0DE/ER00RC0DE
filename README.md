@@ -1,3 +1,4 @@
+<img align="centre" alt="err0rc0de" src="https://drive.google.com/file/d/13lp_KzbPL53jLaLPYYo1_lADN9e-rMq0/view?usp=drivesdk ">
 <h1 align="center">Hi 👋, I'm Avinash Kumar 😊</h1>
 <h3 align="center">A "learning phase" web developer👨‍💻 from India🇮🇳 || Jr. student of EE⚡ in NITP</h3>
 
