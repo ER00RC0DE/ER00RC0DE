@@ -1,4 +1,4 @@
-<a href="#"><p align="center" ><img width="300px" height="300px" src=" https://png.pngtree.com/png-clipart/20200701/original/pngtree-hacker-wearing-hoodie-and-using-laptop-computer-freak-hacking-and-malware-png-image_5415642.jpg"/></p></a>
+<a href="#"><p align="center" ><img width="300px"  src="https://i.pinimg.com/736x/2c/fd/a9/2cfda97310899531dfc8a31e55f63108.jpg"/></p></a>
 <h1 align="center">Hi 👋, I'm Avinash Kumar 😊</h1>
 <h3 align="center">"learning phase" web developer👨‍💻 from India🇮🇳 || Jr. student of EE⚡ in NITP</h3>
 
