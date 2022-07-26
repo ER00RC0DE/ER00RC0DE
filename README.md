@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorcode-4o4&label=Profile%20views&color=0e75b6&style=flat" alt="errorcode-4o4" /> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Web3 along with Blockchain**
 
-- 👯 I’m looking to collaborate on **unique web development projects**
-
-- 🤝 I’m looking for help with **node js**
-
-- 💬 Ask me about **c , html**
+- 💬 Ask me about **c ,c++ , Web3 Fundamentals**
 
 - 📫 How to reach me **avinashsingh9931829590@gmail.com**
 
-- ⚡ Fun fact **I think I can be an Engineer 😶**
+- ⚡ Fun fact **I will be Engineer 😶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
