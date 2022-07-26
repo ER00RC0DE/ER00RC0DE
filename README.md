@@ -1,6 +1,6 @@
 <a href="#"><p align="center" ><img width="300px"  src="https://i.pinimg.com/736x/2c/fd/a9/2cfda97310899531dfc8a31e55f63108.jpg"/></p></a>
 <h1 align="center">Hi 👋, I'm Avinash Kumar 😊</h1>
-<h3 align="center">"learning phase" web developer👨‍💻 from India🇮🇳 || Jr. student of EE⚡ in NITP</h3>
+<h3 align="center">"learning phase" Web3 developer👨‍💻 from India🇮🇳 || Sr. student of EE⚡ in NITP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorcode-4o4&label=Profile%20views&color=0e75b6&style=flat" alt="errorcode-4o4" /> </p>
 
